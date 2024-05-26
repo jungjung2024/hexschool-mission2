@@ -272,7 +272,7 @@ nav a{
         left:0;
     }
     #menu_control:checked ~ .slogan{
-        margin-top: 220px;
+        margin-top: 420px;
     }
 
     .card{
